@@ -1,0 +1,30 @@
+# Build output
+target/
+build/
+out/
+
+# IntelliJ / Eclipse / VS Code
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.factorypath
+.vscode/
+bin/
+
+# Logs
+*.log
+logs/
+
+# Maven wrapper bits (optional)
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local test/scratch output
+test_output.txt
+
